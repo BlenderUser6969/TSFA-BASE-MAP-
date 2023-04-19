@@ -1,0 +1,17 @@
+NDefines.NGame.MAJOR_PARTICIPANTS_FOR_MAJOR_WAR = 2
+NDefines.NPolitics.BASE_POLITICAL_POWER_INCREASE = 3.0
+NDefines.NGame.GAME_SPEED_SECONDS = { 0.2, 0.2, 0.2, 0.2, 0.2 }
+NDefines.NCountry.BASE_MAX_COMMAND_POWER = 0
+NDefines.NCountry.BASE_COMMAND_POWER_GAIN = 0
+NDefines.NCountry.MIN_STABILITY = 0.5
+NDefines.NCountry.MAX_STABILITY = 0.5
+NDefines.NCountry.MIN_WAR_SUPPORT = 0.5
+NDefines.NCountry.MAX_WAR_SUPPORT = 0.5
+NDefines.NCountry.WAR_SUPPORT_OFFNSIVE_WAR = 0				-- Impact of being in offensive war
+NDefines.NCountry.WAR_SUPPORT_DEFENSIVE_WAR = 0				-- Impact of being in defensive war
+NDefines.NDeployment.BASE_DEPLOYMENT_TRAINING = 2
+NDefines.NMilitary.BASE_DIVISION_SUPPORT_SLOT_COST = 0
+NDefines.NMilitary.BASE_DIVISION_BRIGADE_CHANGE_COST = 0
+NDefines.NMilitary.BASE_DIVISION_BRIGADE_GROUP_COST = 0
+NDefines.NTechnology.BASE_YEAR_AHEAD_PENALTY_FACTOR = 0.01
+NDefines.NTechnology.BASE_TECH_COST = 50

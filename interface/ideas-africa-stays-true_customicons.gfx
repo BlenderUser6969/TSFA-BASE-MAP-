@@ -1,0 +1,9 @@
+spriteTypes = { 
+	##Icon For: Africa Stays True
+	SpriteType = { 
+		name = "GFX_idea_africa_stays_true-1077"
+		texturefile = "gfx/interface/ideas/africa-stays-true-ideas/africa_stays_true-1077.dds"
+	}
+
+ 
+ }

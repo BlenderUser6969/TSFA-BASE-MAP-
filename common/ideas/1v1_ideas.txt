@@ -1,0 +1,30 @@
+ideas = {
+
+	
+
+	# Special ones that can be applied on other countries through focus system.
+	country = {
+	
+	start_boost_production_efficiency = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = no 
+			}
+
+			removal_cost = -1
+
+			picture = generic_infantry_bonus
+
+			
+			modifier = {
+				production_factory_start_efficiency_factor = 1
+			}
+		}
+
+		
+
+}

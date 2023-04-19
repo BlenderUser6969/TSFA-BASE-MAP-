@@ -1,0 +1,9 @@
+spriteTypes = { 
+	##Icon For: The Scramble For Africa
+	SpriteType = { 
+		name = "the_scramble_for_africa-664"
+		texturefile = "gfx/interface/events/scramble_for_africa-event/the_scramble_for_africa-664.dds"
+	}
+
+ 
+ }

@@ -1,0 +1,8 @@
+#########################################
+###### SWI CENTRALIZATION BOP MODS ######
+#########################################
+
+victory_point_pp = {
+	political_power_gain = 1 
+}
+

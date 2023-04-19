@@ -1,0 +1,2 @@
+AOF = "countries/Afrique-Occidentale française.txt"
+BSA = "countries/British Africa.txt"

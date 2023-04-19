@@ -1,0 +1,15 @@
+ideas = {
+	country = {
+
+		ett_stort_land = {
+			picture = ett_stort_land-1257
+			modifier = {
+				planning_speed = 0.8
+
+army_speed_factor = 5.0
+
+
+			}
+		}
+	}
+}

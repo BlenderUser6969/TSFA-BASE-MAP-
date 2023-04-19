@@ -1,0 +1,13 @@
+ideas = {
+	country = {
+
+		africa_stays_true = {
+			picture = africa_stays_true-1077
+			modifier = {
+				drift_defence_factor = 5.0
+
+
+			}
+		}
+	}
+}

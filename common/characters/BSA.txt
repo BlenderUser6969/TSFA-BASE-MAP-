@@ -1,0 +1,17 @@
+characters = {
+#Create country leader - Sir Robert Brooke-Popham
+sir_robert_brookepopham = {
+	name = sir_robert_brookepopham
+	portraits = {
+		civilian = {
+			#Custom image for Sir Robert Brooke-Popham
+			large = "/gfx/leaders/BSA/DYoRjMWv-413480.dds"
+		}
+	}
+	country_leader = {
+		expire = "1958.08.17"
+		ideology = liberalism
+		traits = {  retired_officer little_churchill }
+	}
+}
+}

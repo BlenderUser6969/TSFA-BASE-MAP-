@@ -1,0 +1,65 @@
+﻿oob = "AOF_1936"
+capital = 1
+set_research_slots = 3
+set_stability = 0.92
+set_war_support = 0.12
+set_convoys = 200
+
+
+add_ideas = {
+	volunteer_only
+	civilian_economy
+africa_stays_true
+ett_stort_land
+}
+
+
+#Starting tech
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	motorised_infantry = 1
+	tech_engineers = 1
+	tech_recon = 1
+}
+
+
+#For start date 1939.1.1
+1939.1.1 = {
+	add_political_power = 1000
+	oob = "AOF_1939"
+}
+
+#Politics for 1936.1.1
+set_politics = {
+	ruling_party = democratic
+	last_election = "1935.4.25"
+	election_frequency = 60
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 100
+	fascism = 0
+	communism = 0
+	neutrality = 0
+}
+
+#Politics for 1939.1.1
+1939.1.1 = {
+	set_popularities = {
+		democratic = 25
+		fascism = 25
+		communism = 25
+		neutrality = 25
+	}
+}
+
+recruit_character = albert_lebrun
+
+recruit_character = henri_giruad
+recruit_character = maxime_weygand
+recruit_character = charles_de_gaulle
+recruit_character = alphonse_juin
+recruit_character = gastonhenri_billotte
+recruit_character = alphonse_george
+

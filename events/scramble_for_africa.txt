@@ -1,0 +1,41 @@
+add_namespace = scramble_for_africa
+
+#The Scramble For Africa
+news_event = {
+	id = scramble_for_africa.1
+	title = scramble_for_africa.1.t
+	desc = scramble_for_africa.1.d
+
+	picture = the_scramble_for_africa-664
+	fire_only_once = yes
+	trigger = {
+		date < 1936.01.02
+
+
+
+	}
+	timeout_days = 30
+	major = yes
+	option = {
+		name = scramble_for_africa.1.a
+		trigger = {
+			
+		}
+		ai_chance = { factor = 1 }
+		
+		hidden_effect = {
+			
+		}
+	}
+	option = {
+		name = scramble_for_africa.1.b
+		trigger = {
+			
+		}
+		ai_chance = { factor = 1 }
+		
+		hidden_effect = {
+			
+		}
+	}
+}
